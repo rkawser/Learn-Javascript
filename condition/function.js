@@ -1,14 +1,14 @@
 //expressions
 
-// var expire =function(a,b){
-//     return (a+b)
-// }
+var expire =function(a,b){
+    return (a+b)
+}
 
-// console.log(expire(20,1));
+console.log(expire(20,1));
 
-// setTimeout(function(){
-//     console.log('hello world');
-// },2000)
+setTimeout(function(){
+    console.log('hello world');
+},5000)
 
 
 
