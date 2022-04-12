@@ -1,16 +1,21 @@
 //expressions
 
-var expire =function(a,b){
-    return (a+b)
+// var expire =function(a,b){
+//     return (a+b)
+// }
+
+// console.log(expire(20,1));
+
+// setTimeout(function(){
+//     console.log('hello world');
+// },5000)
+
+function argu(){
+
+console.log(arguments);
 }
 
-console.log(expire(20,1));
-
-setTimeout(function(){
-    console.log('hello world');
-},5000)
-
-
+argu(22,23,5)
 
 //return statements
 
